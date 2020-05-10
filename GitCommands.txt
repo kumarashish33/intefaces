@@ -5,4 +5,5 @@
 5)git add <file-name> --- to add files in index
 (Only files in index can be changes)
 6)git commit -m "Commit-Message" --- to commit changes in local repo
-
+7)ssh -T git@github.com --- to add ssh key 
+8)ssh-keygen  --- to generate ssh key
