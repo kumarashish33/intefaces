@@ -1,0 +1,8 @@
+1)git init  --- to initialize the local repository
+2)git remote add origin <link>  --- to connect git to github(add remote repository)
+3)git pull origin master --- to pull central repository to local
+4)git status --- list of files in index 
+5)git add <file-name> --- to add files in index
+(Only files in index can be changes)
+6)git commit -m "Commit-Message" --- to commit changes in local repo
+
